@@ -3,7 +3,7 @@ Programa suskaičiuoja kiek skirtingų žodžių yra tekste, parodo, kuriose eil
 
 # Programos naudojimasis:
 
-1.Įsijungus programą pirmiausia bus paklausta, kurį failą norite nuskaityti. Pasirinkti galite iš 1 ir 2 failo. Pasirenkame, kurio norime ir įrašome norimą skaičių.
+1. Įsijungus programą pirmiausia bus paklausta, kurį failą norite nuskaityti. Pasirinkti galite iš 1 ir 2 failo. Pasirenkame, kurio norime ir įrašome norimą skaičių.
 
 2. Toliau bus užklausa, dėl URL link'ų. Jei norite, kad būtų surasti link'ai rašykite-y, jei ne- n.
 
