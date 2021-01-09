@@ -16,3 +16,6 @@ Zodis| book | buvo pakartotas 2 kartus(-u) eilutese: 8 21
                           URL:
 ---------------------------------------------------------
 https://github.com/
+
+```
+Rezultatas yra išvedamas ir ekrane ir į failą Rezultatai.txt
