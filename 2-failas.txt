@@ -1,0 +1,31 @@
+Domain name
+Simply put, a domain name (or just a domain) is the name of a website. It’s what comes after “@” in an email address, or after “www.” in a web address. If someone asks how to find you online, what you tell them is usually your domain name.
+
+Examples of domain names are:
+google.com
+wikipedia.org
+youtube.com
+
+The first step in creating an online presence is purchasing a domain name. Anyone can purchase a domain name by going to a domain host or registrar (see below), finding a name no one else is using, and paying an annual fee to own it. You can also choose from various domain name endings (or “TLDs”), like .com, .coffee, or .photography. If you’re thinking about buying a domain name, check out our tips on how to come up with a good name.
+
+URL
+A URL (aka “Universal Resource Locator”) is a complete web address used to find a particular web page. While the domain is the name of the website, a URL will lead to any one of the pages within the website. Every URL contains a domain name, as well as other components needed to locate the specific page or piece of content.
+
+Examples of URLs:
+http://www.google.com
+https://en.wikipedia.org/wiki/umami
+https://www.youtube.com/feed/trending
+
+Website
+Though one leads to the other, buying a domain name doesn’t mean you have a website. A domain is the name of a website, a URL is how to find a website, and a website is what people see and interact with when they get there. In other words, when you buy a domain, you have purchased the name for your site, but you still need to build the site.
+
+In digital terms, a website is a collection of content, often on multiple pages, that is grouped together under the same domain. You can think of it like a store, where the domain is the store name, the URL is the store address, and the website is the actual store, with shelves full of products and a cash register.
+
+Luckily, building a website is much easier, faster, and more economical than building a store or office. Today, there are many great companies who make it possible for anyone to build and customize a beautiful website in just a few hours — and most don’t require any knowledge of HTML or other codes. To learn more about building your site, check out our post on how to make the most of your domain.
+
+In order to create a website, you need a few things:
+
+A domain name (such as yoursite.com)
+A domain registrar and host (such as Google Domains)
+A do-it-yourself website builder, like SquareSpace or Wix, or a web designer
+Digital content — the text, images, videos, and other media that visitors will see when they come to your site.
